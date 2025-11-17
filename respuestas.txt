@@ -3,3 +3,6 @@
     3-mkdir uno dos tres
 
 2.  1-touch uno/nombre.txt
+
+3.  1- cd dos
+    2- cp ../uno/nombre.txt ../tres
